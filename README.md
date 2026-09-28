@@ -28,7 +28,7 @@ Afin de respecter la contrainte stricte de **2 machines virtuelles maximum**, la
 │                                                                         │
 │  ┌───────────────────────┐   ┌───────────────────────────────────────┐  │
 │  │   PostgreSQL (DB)     │   │     FrankenPHP (Admin Panel)          │  │
-│  │ Base de données du     │   │ - Interface frontend Elm (SPA)        │  │
+│  │ Base de données du    │   │ - Interface frontend Elm (SPA)        │  │
 │  │ projet principal      │   │ - API PHP (REST JSON)                 │  │
 │  └───────────▲───────────┘   └──────────────────▲────────────────────┘  │
 │              │                                  │ (Lecture)             │
